@@ -10,13 +10,13 @@ Project Roadmap은 아이디어를 제안하거나, 실제로 프로젝트를 �
 
 ## Contents
 
-- [Introduction](https://github.com/blackrubystudio/Project-Roadmap#introduction)
-- [Basic](https://github.com/blackrubystudio/Project-Roadmap#basic)
-- [Steps (프로젝트 프로세스)](https://github.com/blackrubystudio/Project-Roadmap#steps)
-- [Tool Tips](https://github.com/blackrubystudio/Project-Roadmap#tools--tips)
-- [Culture](https://github.com/blackrubystudio/Project-Roadmap#culture)
-- [FAQ](https://github.com/blackrubystudio/Project-Roadmap#faq)
-- [Additional Resources](https://github.com/blackrubystudio/Project-Roadmap#%EC%B0%B8%EA%B3%A0-%EC%9E%90%EB%A3%8C)
+- [Introduction](https://blackrubystudio.github.io/Project-Roadmap/#introduction)
+- [Basic](https://blackrubystudio.github.io/Project-Roadmap/#basic)
+- [Steps (프로젝트 프로세스)](https://blackrubystudio.github.io/Project-Roadmap/#steps)
+- [Tool Tips](https://blackrubystudio.github.io/Project-Roadmap/#tools--tips)
+- [Culture](https://blackrubystudio.github.io/Project-Roadmap/#culture)
+- [FAQ](https://blackrubystudio.github.io/Project-Roadmap/#faq)
+- [Resources](https://blackrubystudio.github.io/Project-Roadmap/#Resources)
 
 ## Introduction
 
@@ -194,7 +194,7 @@ Project Roadmap은 아이디어를 제안하거나, 실제로 프로젝트를 �
 
 > 언제든지 주변의 팀원들에게 물어보시면 되지만, `slack으로 미리 자료와 질문 내용`를 올리는 것이 기본 매너입니다. 팁을 드리면 팀원들이 오전 10시부터 점심시간 12시 반 전까지 가벼운 작업을 하는 경우가 많아 이 시간을 활용하면 대부분이 편하게 답변해줄 것입니다. 헤드폰이나 이어폰을 쓰고 작업에 집중 중인 팀원에게 도움을 요청해야 한다면 slack의 답변이 올 때까지 기다리시는 것이 좋습니다. 헤드폰은 일종의 고도의 집중이 필요한 작업을 진행중이라는 표시니까요:crossed_fingers:. 만약 그래도 답변이 없다면, 팀원들의 현재 업무 진행상황에 대한 이해가 기본적으로 수반되야 하며, 자신이 올린 자료의 완성도와 질문 내용, 그리고 현재까지 자신이 쌓아온 공부 내용들을 기반으로 전체적인 리뷰가 필요한 시점이라고 볼 수 있습니다. 
 
-## 참고 자료
+## Resources
 
 ### 책 - 스타트업
 
@@ -235,3 +235,10 @@ TDD는 흔히 방법론이 아닌 팀의 문화라고 합니다. 아무리 좋�
 - 해커와 화가
 - 소프트웨어 장인
 - 프로그래머가 되기 전에 알았더라면 좋았던 것들
+
+### 영상 - 영화/드라마/YouTube
+
+- Founder (영화)
+- 실리콘벨리 (드라마)
+- 리얼밸리 (YouTube) 
+
